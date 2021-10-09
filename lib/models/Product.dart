@@ -52,7 +52,7 @@ final List<Product> products = [
     title: 'Item 6',
     price: 16000,
     description: loremIpsum,
-    image: 'assets/images/2.jpg',
+    image: 'assets/images/item_2.jpg',
   ),
 ];
 
